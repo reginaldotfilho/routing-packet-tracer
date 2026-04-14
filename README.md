@@ -1,7 +1,6 @@
 # 📡 Configuração de Roteamento com RIP - Passo a Passo
 
-<img width="1874" height="697" alt="Captura de tela 2026-04-13 205904" src="https://github.com/user-attachments/assets/b8daa91d-fca1-40ba-82d6-6aebe3db0061" />
-
+<img width="898" height="612" alt="Captura de tela 2026-04-09 214403" src="https://github.com/user-attachments/assets/2d069fae-0c22-4710-b0de-2fef74c0ddce" />
 
 Este documento apresenta a configuração de um roteador Cisco no Packet Tracer utilizando roteamento dinâmico com RIP.
 
