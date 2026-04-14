@@ -2,7 +2,7 @@
 
 <img width="898" height="612" alt="Captura de tela 2026-04-09 214403" src="https://github.com/user-attachments/assets/2d069fae-0c22-4710-b0de-2fef74c0ddce" />
 
-Este documento apresenta a configuração de um roteador Cisco no Packet Tracer utilizando roteamento dinâmico com RIP.
+Este documento apresenta a configuração de um roteador Cisco no Packet Tracer.
 
 A explicação segue uma ordem lógica de execução, ideal para estudo e prática.
 
